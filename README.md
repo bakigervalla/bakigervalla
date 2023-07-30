@@ -1,54 +1,185 @@
-# Awesome GitHub profiles
+<h1 align="center"> Hi, I'm Agile Team Leader👋</h1>
+<h3 align="center">Senior FullStack Developer</h3>
+<h3 align="center">A passionate React/Next.js Frontend Developer, C#, ASP.NET and Blazor Developer.</h3>
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
 
-<p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
- </a>
+
+
+
+
+
+
+- 🔭 I’m currently working on **Advance React/Nest/Node.js/PostgreSQL**
+
+- 🌱 I’m currently researching **About Development Direction of Web 4.0.**
+
+- 👯 Worked as Team Leader and Software Developer for 500 Fortune companies. 
+
+- 🤝Worked as a Software Developer for Amazon and Plan Box using C#, ASP.NET, Blazor, MS SQLServer, and AWS. 
+
+- 💬 Ask me about **React.js, Nest.js, Next.js, Typescript, Node.js, Tailwind CSS, JavaScript, C#, ASP.NET, Blazor, WPF, MS SQL, Oracle, MySQL, PostgreSQL**
+
+- 📫 How to reach me **bakigervalla@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshguria&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshguria" alt="visheshguria" /></a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100"/>
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100"/>
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100"/> 
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="100"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
+    </td>
+  
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    </td>
+    <td>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+    </td>
+  
+  </tr>
+</table>
+
+### ⚙️ &nbsp;Some Stats
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
 </p>
 
-## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+</p>
 
-1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
-
-2. Fork the project, using the top right corner button, that states `fork`
-
-3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
-
-> <span style="color: #606c71">Your entry should be similar to this example:</span>
-
-```json
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-```
-
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
-
-## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
-
-## Our Pledge
-
-We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
-
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/ibm_badges_credly.png">
+</p>
