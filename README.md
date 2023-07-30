@@ -23,12 +23,6 @@
 
 - 📫 How to reach me **bakigervalla@gmail.com**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshguria&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visheshguria" alt="visheshguria" /></a> </p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
