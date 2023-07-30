@@ -68,11 +68,11 @@
        <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
     </td>    
     <td>
-      <img title="MS SQL Server" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100"/>
-    </td>    
-    <td>
       <img title="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-    </td>    
+    </td>      
+    <td>
+      <img title="MS SQL Server" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100"/>
+    </td>      
     <td>
         <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     </td>
